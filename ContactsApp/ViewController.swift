@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
     var users = [
-        User.init("Aidarov Alibek", "87085110007", UIImage.init(named: "male")!),
+        User.init("Saktagan Nurlybek", "87085110007", UIImage.init(named: "male")!),
         User.init("James Bond", "87085110007", UIImage.init(named: "female")!),
     ]
     
