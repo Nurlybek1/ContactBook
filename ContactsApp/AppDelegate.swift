@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ContactsApp
 //
-//  Created by Алибек Айдаров on 04.10.2021.
+//  Created by Nurlybek Saktagan on 04.10.2021.
 //
 
 import UIKit
